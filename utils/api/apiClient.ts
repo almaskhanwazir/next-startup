@@ -95,3 +95,15 @@ export const api = {
 
 
 }
+
+// // GET request
+// const response = await get('/users'); 
+
+// // POST request 
+// await post('/users', { name: 'John' });
+
+// // PUT request
+// await put('/users/123', { name: 'Jane' }); 
+
+// // DELETE request  
+// await deleteRequest('/users/123');
