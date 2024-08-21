@@ -63,7 +63,7 @@ function handleError(error: unknown) {
   }
 }
 
-export const ApiUrls = {
+export const api = {
   Account: {
     User: `/user/`,
     UserDetail: (username: string) => `/user/${username}`,
